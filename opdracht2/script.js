@@ -13,7 +13,11 @@ var ingevuld_getal = ;
  */
 
 /* jouw code hieronder-->> */
-
+if (ingevuld_getal < 18) {
+    document.getElementById()
+} else {
+    
+}
 
 
 /* C) Schrijf code waarmee je het ingevulde getal vergelijkt (condition) met de stemgerechtigde leeftijd van 18 jaar.
